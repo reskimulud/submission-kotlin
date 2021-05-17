@@ -1,0 +1,15 @@
+type: theory
+custom_name: Hello Kotlin
+files:
+- name: src/App.kt
+  visible: true
+  text: |-
+    fun main() {
+        print("Hello Kotlin!")
+    }
+  learner_created: false
+status: Solved
+feedback:
+  time: Fri, 14 May 2021 14:36:06 UTC
+record: -1
+post_submission_on_open: true
